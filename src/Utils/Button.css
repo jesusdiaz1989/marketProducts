@@ -1,0 +1,23 @@
+
+.buttonRight, .buttonLeft{
+    background: none;
+    border: none;
+    color: #7300ff;
+    cursor: pointer;
+    font-weight: bolder;
+}
+.buttonLeft{
+    border-radius: 5px 0 0 5px;
+}
+.buttonRight{
+    border-radius: 0 5px 5px 0;
+    padding: 0 5px;
+}
+.buttonPay{
+    background: #7300ff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px;
+}

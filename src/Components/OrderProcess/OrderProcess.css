@@ -1,0 +1,53 @@
+.wrap{
+    background: #fff;
+}
+.contentTitle{
+    margin: auto;
+    width: 80%;
+}
+.titleOrder{
+    color: #7300ff;
+}
+.contentProduct {
+    background: #fff;
+    padding: 0;
+    padding-top: 1rem;
+    border-radius: 1.5rem 1.5rem 0 0;
+}
+.contentProduct ul, .contentProduct p {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: auto;
+    width: 90%;
+}
+.contentProduct p{
+    padding: 1rem 0;
+}
+ul li {
+    list-style: none;
+    margin-bottom: 1rem;
+    min-width: 390px;
+}
+footer{
+    margin: auto;
+    position: relative;
+    width: 90%;
+}
+.contentValue{
+    bottom: 0;
+    float: left;
+    left: 0;
+    position: absolute;
+}
+.contentButton{
+    bottom: 1.5rem;
+    float: right;
+    position: absolute;
+    right: 0;
+}
+.contentFooter{
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+}

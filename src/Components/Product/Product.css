@@ -1,0 +1,35 @@
+.imgProduct{
+    background: #eae8fd;
+    border-radius: 10px 0 0 10px;
+    float: left;
+    height: 150px;
+}
+.contentInfo{
+    background: #f2f2f2;
+    border-radius: 0 10px 10px 0;
+    float: left;
+    padding: 0 15px;
+    width: 50%;
+    height: 150px;
+}
+.contentButtons{
+    background: #ece7fe;
+    border-radius: 5px;
+    float: right;
+    height: 25px;
+}
+.descriptionProduct{
+    font-size: 12px;
+    color: #a7a7a0;
+}
+.amount{
+    background: #fff;
+    border-radius: 5px;
+    color: #7300ff;
+    display: inline-block;
+    height: 20px;
+    margin-top: 1px;
+    text-align: center;
+    margin-top: 2px;
+    width: 30px;
+}
