@@ -5,7 +5,6 @@ import './Product.css';
 
 function Product(props) {
     const [amount, setAmount] = react.useState(props.product.amount);
-    const 
 
     return (
         <li>
